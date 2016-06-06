@@ -1,0 +1,23 @@
+#container {
+	width: 90%;
+	margin: auto;
+}
+
+.product {
+	border: 1px solid black;
+	float: left;
+/*	padding: 5px;
+*/	margin: 10px;
+	width: 30%;
+}
+
+.title {
+	text-align: center;
+	font-weight: 900;
+	background-color: darkgray;
+	color: white;
+}
+
+.volume {
+	text-align: justify;
+}
